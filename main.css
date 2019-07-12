@@ -5,3 +5,15 @@
 body{
     visibility: visible;
 }
+
+.even {
+    height: 500px;
+    background-image: url(./images/even-image.jpeg);
+    background-size: cover;
+}
+
+.odd {
+    height: 500px;
+    background-image: url(./images/odd-image.jpeg);
+    background-size: cover;
+}
