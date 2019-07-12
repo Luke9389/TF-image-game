@@ -2,7 +2,7 @@ import isEven from './is-even.js';
 
 const num = document.getElementById('numberInput');
 const butt = document.getElementById('butt');
-const img = document.getElementById('imgDiv')
+const img = document.getElementById('imgDiv');
 // const oddImage = document.getElementById('odd');
 // const evenImage = document.getElementById('even');
 
